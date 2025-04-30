@@ -1,0 +1,19 @@
+
+h2 {font-family: 'Merriweather', serif;
+  font-optical-sizing: auto;
+  font-weight: 400; /* or 700 for bold, etc. */
+  font-style: normal;
+  font-variation-settings: "wdth" 100;}
+
+body {
+	background-color: lightyellow;
+	
+.merriweather-<uniquifier> {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}}
+
