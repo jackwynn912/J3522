@@ -1,0 +1,12 @@
+
+body {
+	text-align: center;
+	background-color: lightblue;
+	font-family: 'Merriweather', serif;
+  font-weight: 400;
+}
+
+h1, h2, h4 {
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+}
